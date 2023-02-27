@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../VS CODE/semantic-html-and-links-avalon-porter-1/images"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "responsive-images-and-svg-avalon-porter"
+  }
+}
